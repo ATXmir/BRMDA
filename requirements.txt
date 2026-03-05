@@ -1,0 +1,10 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+tqdm
+openpyxl
+# Install torch separately (recommended) to match your OS/CUDA:
+#   pip install torch
+torch
